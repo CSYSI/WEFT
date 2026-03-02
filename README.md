@@ -19,7 +19,7 @@ WEFT_AAAI26_ORSIs [(https://pan.baidu.com/s/1ewSbkjKOQsusGDlpx2fk9A), PIN:t7xg]
 
 # Expend Applications
 
-We provide the segmentation results of the proposed WEFT model under in camouflage (COD), natural (SOD) and medical (PS) Images.
+We provide the segmentation results of the proposed WEFT model under in camouflage (COD), natural (SOD) and medical (PS) scenarios.
 
 WEFT_AAAI26_COD/SOD/PS [(https://pan.baidu.com/s/1I8UFBVeBKFdhuSiAU8zg1A), PIN:wtxk] 
 
