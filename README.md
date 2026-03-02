@@ -16,6 +16,14 @@ We provide the segmentation results of the proposed WEFT model under in Optical 
 
 WEFT_AAAI26_ORSIs [(https://pan.baidu.com/s/1ewSbkjKOQsusGDlpx2fk9A), PIN:t7xg] 
 
+
+# Expend Applications
+
+We provide the segmentation results of the proposed WEFT model under in camouflage (COD), natural (SOD) and medical (PS) Images.
+
+WEFT_AAAI26_COD/SOD/PS [(https://pan.baidu.com/s/1I8UFBVeBKFdhuSiAU8zg1A), PIN:wtxk] 
+
+
 # Citation
 
 If you use DPU-Former in your research or wish to refer to the baseline results, please use the following BibTeX entry.
