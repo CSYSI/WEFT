@@ -16,4 +16,24 @@ We provide the segmentation results of the proposed WEFT model under in Optical 
 
 WEFT_AAAI26_ORSIs [(https://pan.baidu.com/s/1ewSbkjKOQsusGDlpx2fk9A), PIN:t7xg] 
 
+# Citation
 
+If you use DPU-Former in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+
+```
+@article{WEFT,
+  title={Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation},
+  author={Sun, Yanguang and Wang, Chao and Yang, Jian and Luo, Lei},
+  journal={arXiv preprint arXiv:2601.09108},
+  year={2026}
+}
+```
+
+```
+@article{WEFT,
+  title={Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation},
+  author={Sun, Yanguang and Wang, Chao and Yang, Jian and Luo, Lei},
+  journal={AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
+```
