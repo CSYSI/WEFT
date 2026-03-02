@@ -19,7 +19,7 @@ WEFT_AAAI26_ORSIs [(https://pan.baidu.com/s/1ewSbkjKOQsusGDlpx2fk9A), PIN:t7xg]
 
 # Expend Applications
 
-We provide the segmentation results of our WEFT under in camouflage, natural and medical scenarios.
+We provide the segmentation results of our WEFT method under in camouflage, natural and medical scenarios.
 
 WEFT_AAAI26_COD/SOD/PS [(https://pan.baidu.com/s/1I8UFBVeBKFdhuSiAU8zg1A), PIN:wtxk] 
 
