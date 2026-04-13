@@ -24,6 +24,22 @@ We provide the segmentation results of our WEFT method under in camouflage, natu
 WEFT_AAAI26_COD/SOD/PS [(https://pan.baidu.com/s/1I8UFBVeBKFdhuSiAU8zg1A), PIN:wtxk] 
 
 
+# Training
+
+To train WEFT model on ORSSD on a single node with 2 gpus run:
+
+```shell
+
+bash dist_train.sh configs/COS/WEFT_RSSOD_ORSSD.py 2 --seed 2024
+
+```
+
+# Testing
+
+The visual segmentation results can be obtained through image_demo.py
+
+
+
 # Citation
 
 If you use DPU-Former in your research or wish to refer to the baseline results, please use the following BibTeX entry.
