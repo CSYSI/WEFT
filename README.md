@@ -62,6 +62,7 @@ If you use DPU-Former in your research or wish to refer to the baseline results,
   title={Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation},
   author={Sun, Yanguang and Wang, Chao and Yang, Jian and Luo, Lei},
   journal={AAAI Conference on Artificial Intelligence (AAAI)},
+  pages={9224--9232},
   year={2026}
 }
 ```
