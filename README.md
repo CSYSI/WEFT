@@ -58,10 +58,12 @@ If you use DPU-Former in your research or wish to refer to the baseline results,
 ```
 
 ```
-@article{WEFT,
-  title={Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation},
+@inproceedings{sun2026small,
+  title={Small but mighty: Dynamic wavelet expert-guided fine-tuning of large-scale models for optical remote sensing object segmentation},
   author={Sun, Yanguang and Wang, Chao and Yang, Jian and Luo, Lei},
-  journal={AAAI Conference on Artificial Intelligence (AAAI)},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={11},
   pages={9224--9232},
   year={2026}
 }
